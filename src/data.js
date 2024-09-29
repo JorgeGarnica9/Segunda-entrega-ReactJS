@@ -38,6 +38,22 @@ const products = [
         desc: "lorem ipsum auricular",
         price:'100',
         category: 'Accesories',
+    },
+    {
+        id: 6,
+        name: "REMERA ZORO",
+        image: "/zoro.webp",
+        desc: "lorem ipsum auricular",
+        price:'100',
+        category: 'Shirts',
+    },
+    {
+        id: 7,
+        name: "REMERA FINAL FANTASY 7 CORPS",
+        image: "/finalfantasy7.webp",
+        desc: "lorem ipsum auricular",
+        price:'100',
+        category: 'Shirts',
     }
 ]
 

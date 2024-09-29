@@ -18,16 +18,16 @@ export default function NavBar() {
       <nav>
         <ul className="nav-container">
           <li>
-            <NavLink to={'category/games'} ><Button category='JUEGOS'/></NavLink>
+            <NavLink to={'category/Games'} ><Button category='JUEGOS'/></NavLink>
           </li>
           <li>
-            <NavLink to={'category/accesories'}><Button category='ACCESORIOS'/></NavLink>
+            <NavLink to={'category/Accesories'}><Button category='ACCESORIOS'/></NavLink>
           </li>
           <li>
-            <NavLink to={'category/shirts'}><Button category='REMERAS'/></NavLink>
+            <NavLink to={'category/Shirts'}><Button category='REMERAS'/></NavLink>
           </li>
           <li>
-            <NavLink to={'category/contact'}><Button category='CONTACTO'/></NavLink>
+            <NavLink to={'/Contact'}><Button category='CONTACTO'/></NavLink>
           </li>
         </ul>
       </nav>
