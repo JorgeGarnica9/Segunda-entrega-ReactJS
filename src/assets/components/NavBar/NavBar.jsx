@@ -27,7 +27,7 @@ export default function NavBar() {
             <NavLink to={'category/Shirts'}><Button category='REMERAS'/></NavLink>
           </li>
           <li>
-            <NavLink to={'/Contact'}><Button category='CONTACTO'/></NavLink>
+            <NavLink to={'/category/Consoles'}><Button category='CONSOLAS'/></NavLink>
           </li>
         </ul>
       </nav>

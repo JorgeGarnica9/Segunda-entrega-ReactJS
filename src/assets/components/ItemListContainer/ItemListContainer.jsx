@@ -16,8 +16,6 @@ export default function ItemListContainer() {
         getProducts.then(info=>setProducts(info));
       }
     },[categoryId]);
-//       getProducts.then(info => setProducts(info))
-//     },[]);
     
     return (
     <>
